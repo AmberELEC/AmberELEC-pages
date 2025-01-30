@@ -55,7 +55,7 @@ Please note that MAME and FinalBurn Neo screen aspect ratios are not optimized, 
 |[Epoch<br />Game Pocket Computer](epoch-game-pocket-computer)|**mame**|gamepocketcomputer|.bin .zip .7z|Good|Good|
 |Epoch<br />Super Cassette Vision|**emuscv**|scv|.bin .rom .0 .zip .7z|Good|Good|
 |[Fairchild<br/>Channel F](fairchild-channel-f)|**fairchaf**|channelf|.bin .chf .zip .7z|Good|Good|
-|Gakken<br />Compact Vision TV Boy|**mame**|tvboy|.bin .7z .zip|Mixed|Good|
+|Gakken<br />Compact Vision TV Boy|**mame**|tvboy|.bin .7z .zip|Good|Good|
 |[Hartung<br />Game Master](hartung-game-master)|**mame**|gamemaster|.bin .zip .7z|Good|Good|
 |[Magnavox<br/>Odyssey²](magnavox-odyssey2)|**o2em**|odyssey|.bin .zip .7z|Good|Good|
 |[Mattel<br/>Intellivision](mattel-intellivision)|**freeintv**|intellivision|.int .bin .rom .zip .7z|Good|Good|
@@ -100,10 +100,10 @@ Please note that MAME and FinalBurn Neo screen aspect ratios are not optimized, 
 |[Sony<br/>PlayStation](sony-playstation)|**pcsx_rearmed2023**<br />pcsx_rearmed<br />duckstation<br />swanstation|psx|.bin .cue .img .pbp .mdf .toc .cbn .m3u .ccd .chd .iso|Good|Good|
 |[Sony<br/>PSP](sony-psp)|**PPSSPPSDL**<br />ppsspp|psp|.chd .cso .pbp .iso|Mixed: Many games run well, especially with frameskip. Some games are unplayable|Mixed: Many games run well, especially with frameskip. Some games are unplayable|
 |[Sony<br/>PSP Minis](sony-psp)|**PPSSPPSDL**<br />ppsspp| pspminis |.chd .cso .pbp .iso|Mixed: Most games are less demanding than PSP, and run well, though a few may run badly|Mixed: Most games are less demanding than PSP, and run well, though a few may run badly|
-|Tiger<br />Game.com|**mame**|gamecom|.tgc .bin .zip .7z|Mixed|Good|
+|Tiger<br />Game.com|**mame**|gamecom|.tgc .bin .zip .7z|Bad|Good|
 |[TimeTop<br />GameKing](timetop-gameking)|**mame**|gameking|.bin .gk .zip .7z|Mixed|Good|
-|TimeTop<br />GameKing 3|**mame**|gameking3|.bin .zip .7z|Mixed|Good|
-|V.Tech<br />V.Smile|**mame**|vsmile|.bin .7z .zip|Mixed|Good|
+|TimeTop<br />GameKing 3|**mame**|gameking3|.bin .zip .7z|Bad|Good|
+|V.Tech<br />V.Smile|**mame**|vsmile|.bin .7z .zip|Bad|Good|
 |[Watara<br/>Supervision](watara-supervision)|**potator**|supervision|.sv .zip .7z|Good|Good|
 |[Welback Holdings<br/>Mega Duck](welback-holdings-mega-duck)|**sameduck**|megaduck|.bin .zip .7z|Good|Good|
 
