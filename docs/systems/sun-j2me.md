@@ -2,7 +2,9 @@
 
 ## Overview
 
-- Core: `freej2me`
+- Cores:
+  - `freej2me-plus` (default)
+  - `freej2me`
 - Path: `j2me`
 - Supported Extension: `.jar`
 - Documentation: [freej2me](https://github.com/hex007/freej2me)
